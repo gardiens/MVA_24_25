@@ -51,13 +51,7 @@ repos:
       - id: mypy
 
   # jupyter notebook linting
-  - repo: https://github.com/nbQA-dev/nbQA
-    rev: 1.8.7
-    hooks:
-      - id: nbqa-black
-        args: ["--line-length=99"]
-      - id: nbqa-isort
-        args: ["--profile=black"]
+
   - repo: local
     hooks:
       - id: git-diff
@@ -66,5 +60,3 @@ repos:
         language: system
         pass_filenames: false
         always_run: true
-
-  
