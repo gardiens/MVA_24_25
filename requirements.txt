@@ -5,3 +5,4 @@ matplotlib
 pandas
 tqdm    
 scikit-learn
+h5py
