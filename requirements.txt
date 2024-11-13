@@ -3,6 +3,7 @@ numpy
 scipy
 matplotlib
 pandas
-tqdm    
+tqdm
 scikit-learn
 h5py
+opencv-python
