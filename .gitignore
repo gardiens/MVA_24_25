@@ -335,3 +335,7 @@ TD4/RNADataset/
 TD4/__MACOSX/
 TD3/__MACOSX/
 TD3/mesh_utils/
+DL_MVA/jupyter_cluster.batch
+*/requirements.txt
+!requirements.txt
+mva_geom/TD2/requirements.txt

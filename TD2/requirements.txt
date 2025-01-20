@@ -1,6 +1,0 @@
-ipykernel
-numpy 
-scipy 
-matplotlib
-pandas
-tqdm
