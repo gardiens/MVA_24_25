@@ -21,4 +21,4 @@ Navigate to the desired directory to find course materials, assignments, or reso
 If specific dependencies are required for projects or scripts in this repository, please refer to the respective course or project directory for installation instructions.
 
 ## Contributions
-Contributions to this repository are welcome. If you have materials or resources to add:
+Contributions to this repository are welcome. 
