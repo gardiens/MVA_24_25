@@ -19,8 +19,7 @@ Welcome to the **MVA 24/25** repository! This repository contains materials, cod
 
 The **MVA (Mathematics, Vision, and Learning)** program is a highly regarded Master's program that focuses on the intersection of mathematics, computer vision, and machine learning. It is designed to equip students with the theoretical foundations and practical skills needed to tackle cutting-edge challenges in artificial intelligence, data science, and related fields.
 
-This repository is a collaborative space for students and instructors to share resources, code, and projects related to the MVA curriculum.
-
+If you find it useful ( for a project or a tutorial), please leave a star it means a lot to us :) 
 ---
 
 ## Repository Structure
@@ -95,7 +94,7 @@ Open a pull request and describe your changes.
 Please ensure your contributions align with the repository's goals and follow the code of conduct.
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+Do not use this repository if you are not allowed to use it :') 
 
 # Contact
 For questions, suggestions, or collaborations, feel free to reach out:
