@@ -22,40 +22,9 @@ The **MVA (Mathematics, Vision, and Learning)** program is a highly regarded Mas
 If you find it useful ( for a project or a tutorial), please leave a star it means a lot to us :) 
 ---
 
-## Repository Structure
-
-The repository is organized as follows:
-```
-MVA_24_25/
-├── courses/ # Course materials (lectures, slides, notes)
-│ ├── machine_learning/ # Machine learning course resources
-│ ├── computer_vision/ # Computer vision course resources
-│ └── mathematics/ # Applied mathematics course resources
-├── projects/ # Student and group projects
-│ ├── project_1/ # Example project folder
-│ └── project_2/ # Example project folder
-├── datasets/ # Datasets used in courses and projects
-├── scripts/ # Utility scripts and tools
-├── README.md # This file
-└── LICENSE # License information
-```
 
 ## Getting Started
 
-To get started with the materials in this repository:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/gardiens/MVA_24_25.git
-   cd MVA_24_25
-2. **Explore the folders**:
-
-Navigate to the courses/ directory for lecture notes and slides.
-
-
-Check out the projects/ directory for examples and templates.
-
-Use the datasets/ folder for accessing shared datasets.
 
 4; **Set up your environment**:
 
@@ -67,32 +36,6 @@ Install required dependencies using pip:
 
 pip install -r requirements.txt
 ```
-
-# Contributing
-We welcome contributions from students, instructors, and the broader community! To contribute:
-
-Fork the repository.
-
-Create a new branch for your feature or fix:
-
-```bash
-
-
-git checkout -b feature/your-feature-name
-Commit your changes:
-```
-```bash
-
-git commit -m "Add your message here"
-Push your branch:
-```
-```bash
-
-git push origin feature/your-feature-name
-Open a pull request and describe your changes.
-```
-Please ensure your contributions align with the repository's goals and follow the code of conduct.
-
 # License
 Do not use this repository if you are not allowed to use it :') 
 
